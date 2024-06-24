@@ -1,0 +1,14 @@
+
+#roomImage{
+    width: 1000px;
+    float: right;
+}
+body{
+    background-color: rgba(168, 21, 70, 0.562);
+}
+.life{
+    text-align: right;
+}
+.money{
+    text-align: right;
+}
